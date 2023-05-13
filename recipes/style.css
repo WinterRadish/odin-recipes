@@ -20,3 +20,7 @@ p{
 .headers{
     font-size: 30px;
 }
+
+h1.headers{
+    font-size: 50px;
+}
