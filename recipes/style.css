@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(209, 209, 209);
+    font-family: Helvetica;
+    font-size: 25px;
+}
+
+img{
+    height: 500px;
+    width: auto;
+}
+
+li{
+    padding: 5px;
+}
+
+p{
+    text-indent: 20px;
+}
+
+.headers{
+    font-size: 30px;
+}
