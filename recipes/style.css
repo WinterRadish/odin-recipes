@@ -19,18 +19,23 @@ img{
     margin: 0 auto;
 }
 
-li{
-    padding: 5px;
+.title {
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
 }
 
-p{
-    text-indent: 20px;
+.description{
+    border-style: solid none none none;
+    margin: 20px;
 }
 
-.headers{
-    font-size: 30px;
+.ingredient{
+    margin: 20px;
 }
 
-h1.headers{
-    font-size: 50px;
+.steps{
+    margin: 20px;
 }
+
