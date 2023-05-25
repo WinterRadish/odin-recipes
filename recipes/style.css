@@ -1,12 +1,22 @@
-*{
+body{
     background-color: rgb(209, 209, 209);
     font-family: Helvetica;
     font-size: 25px;
 }
 
+.card {
+    margin: 0 auto;
+    padding: 12px;
+    width: 70%;
+    background-color: white;
+}
+
+
 img{
-    height: 500px;
-    width: auto;
+    display: block;
+    height: auto;
+    width: 50%;
+    margin: 0 auto;
 }
 
 li{
